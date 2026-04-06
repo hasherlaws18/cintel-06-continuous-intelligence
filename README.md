@@ -135,6 +135,9 @@ uv sync --extra dev --extra docs --upgrade
 uvx pre-commit install
 git add -A
 uvx pre-commit run --all-files
+# repeat if changes were made
+git add -A
+uvx pre-commit run --all-files
 
 uv run python -m cintel.continuous_intelligence_case
 

@@ -15,7 +15,6 @@ to get these projects running on your machine.
 
 - **Home** - this documentation landing page
 - **Project Instructions** - instructions specific to this module
-- **Your Files** - how to copy the example and create your version
 - **Glossary** - project terms and concepts
 
 ## Additional Resources
