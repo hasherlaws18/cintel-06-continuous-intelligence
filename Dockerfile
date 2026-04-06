@@ -33,7 +33,6 @@ RUN pip install --no-cache-dir uv
 # ASSEMBLE: PREPARE PYTHON ENVIRONMENT
 # ============================================================
 # WHY: Ensure correct Python version and environment setup.
-RUN uv self update
 RUN uv python pin 3.14
 
 # ============================================================
