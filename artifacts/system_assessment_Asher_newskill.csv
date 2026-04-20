@@ -1,0 +1,2 @@
+avg_requests,avg_errors,avg_error_rate,avg_latency_ms,system_state
+158.65277777777777,4.861111111111111,0.027783778745379146,34.55123791203662,DEGRADED
