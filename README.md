@@ -102,6 +102,10 @@ Pipeline executed successfully!
 
 And a new file named `project.log` will appear in the project folder.
 
+## Changes
+
+Lowering the max error rate threshold from 0.05 to 0.005 and the max average latency from 40.0 to 20.0 resulted in the system state changing from stable to degraded. This indicates that while the system metrics were previously within acceptable limits, they now exceed the stricter thresholds, triggering a degraded state.
+
 ## Command Reference
 
 The commands below are used in the workflow guide above.
